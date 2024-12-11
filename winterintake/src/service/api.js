@@ -1,6 +1,6 @@
 
 import axios from 'axios'
-const URL = 'http://localhost:8000'
+const URL = 'https://mbbs-2.onrender.com'
 
 export const contactData = async(data) =>{
     try{
