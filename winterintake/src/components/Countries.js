@@ -20,6 +20,7 @@ const RussiaDetails = () => (
     </ul>
 
     <h4>Far Eastern Federal University</h4>
+    <img src="https://tse1.mm.bing.net/th?id=OIP.9GMZHRUiSnNyjgGfPwQc_QAAAA&pid=Api&P=0&h=180" style={{height:'50vh'}} loading="lazy"/>
     <p>
       Far Eastern Federal University (FEFU) is a federal state autonomous educational institution of higher education.
       The President of the Russian Federation issued Decree No. 1172 on October 21, 2009, and the Russian Federation’s Government issued Decree No. 503-r on April 2, 2010, renaming the type of state educational institution of higher professional education to “Far Eastern State University.”
