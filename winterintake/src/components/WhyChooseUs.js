@@ -1,8 +1,7 @@
 import React from "react";
-// import "./WhyChooseUs.css";
-
 const WhyChooseUs = () => {
   const reasons = [
+    "No One time fee",
     "Tie-ups with top universities abroad",
     "Comprehensive visa and admission support",
     "Proven track record",
