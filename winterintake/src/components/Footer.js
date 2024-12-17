@@ -9,6 +9,7 @@ const Footer = () => {
     <footer>
       <p>© 2024 MBBS Aryvrta sky from abroad. All rights reserved.</p>
       <p>Whatsapp-9880587408, +7 9146849490</p>
+      <p>Block - C-6 , 61 , 2 nd  floor , Yamuna vihar  110053( East Delhi)</p>
       <div className="social-icons">
         <a href="#"> <InstagramIcon
           sx={{
